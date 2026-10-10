@@ -128,3 +128,4 @@ Pola yang dipakai (mis. program kerja):
 4. Query di `src/server/queries/*`, filter berdasarkan departemen untuk staff.
 5. Halaman `src/app/dashboard/<fitur>/`.
 # organisasi
+# organisasi
